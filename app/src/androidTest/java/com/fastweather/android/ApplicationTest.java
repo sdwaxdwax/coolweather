@@ -1,4 +1,4 @@
-package com.coolweather.android;
+package com.fastweather.android;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
